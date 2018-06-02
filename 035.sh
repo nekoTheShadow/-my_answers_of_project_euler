@@ -19,3 +19,4 @@ END {
     if (is_circle) print prime;
   }
 }' | wc -l 
+#=> 55
